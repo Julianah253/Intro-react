@@ -1,0 +1,15 @@
+.formContainer
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form 
+{
+    width: 700px;
+    padding: 30px;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgray;
+}

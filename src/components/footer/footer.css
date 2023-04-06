@@ -1,0 +1,87 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+footer 
+{
+    background-color: #343a40;
+    height: 400px;
+    /* display: flex; */
+    /* align-items: center; */
+}
+
+.row
+{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    padding: 50px;
+    line-height: 2rem;
+    /* @media(max-width: 600px)
+    {
+        display: none;
+    }; */
+}
+
+ .footer .a1
+{
+    color: #fff;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    /* padding: 10px; */
+    font-size: 1.5rem;
+}
+.a2:hover
+{
+    text-decoration: underline;
+    color: #0d6efd;
+    font-weight: 400;
+}
+p 
+{
+    color: #adb5bd;
+}
+p .a2
+{
+    text-decoration: none;
+    color: #adb5bd;
+    font-weight: 600;
+}
+ .a3
+{
+    color: #adb5bd;
+    text-decoration: none;
+    font-weight: 600;
+}
+.a3:hover
+{
+    text-decoration: underline;
+    color: #0d6efd;
+    font-weight: 400;
+}
+
+.col-2 h2
+{
+    color: #adb5bd;
+}
+.a4
+{
+    color: #adb5bd;
+    text-decoration: none;
+    font-weight: 400;
+}
+.a4:hover
+{
+    text-decoration: underline;
+    color: #0d6efd;
+    font-weight: 400;
+}
+
+h2
+{
+    overflow-y: hidden;
+}
